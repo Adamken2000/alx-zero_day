@@ -1,1 +1,1 @@
-My first readme
+Day one coding tutorial
